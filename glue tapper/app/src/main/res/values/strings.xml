@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gloo Wall Tapper</string>
+    <string name="permission_overlay_title">Display over other apps</string>
+    <string name="permission_overlay_message">Gloo Wall Tapper needs permission to draw over other apps to show the floating bubbles.</string>
+    <string name="permission_accessibility_title">Accessibility Service</string>
+    <string name="permission_accessibility_message">Gloo Wall Tapper needs accessibility permission to simulate taps on the game.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    <string name="main_switch_on">ON</string>
+    <string name="main_switch_off">OFF</string>
+    <string name="btn1_label">Button 1</string>
+    <string name="btn2_label">Button 2</string>
+    <string name="btn1_color">Button 1 Color</string>
+    <string name="btn2_color">Button 2 Color</string>
+    <string name="btn1_size">Button 1 Size</string>
+    <string name="btn2_size">Button 2 Size</string>
+    <string name="settings">Settings</string>
+    <string name="tapper">Tapper</string>
+    <string name="disabler">Disabler</string>
+    <string name="tap_interval">Tap Interval (ms)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="overlay_permission_required">Overlay permission required</string>
+    <string name="accessibility_permission_required">Accessibility permission required</string>
+    <string name="service_started">Service started</string>
+    <string name="service_stopped">Service stopped</string>
+    <string name="notification_channel_name">Floating Service</string>
+    <string name="notification_channel_description">Keeps floating bubbles active</string>
+    <string name="channel_id">floating_service_channel</string>
+</resources>

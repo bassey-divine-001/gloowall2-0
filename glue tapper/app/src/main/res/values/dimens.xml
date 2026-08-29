@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+    <dimen name="toggle_width">220dp</dimen>
+    <dimen name="toggle_height">110dp</dimen>
+    <dimen name="bubble_default_size">80dp</dimen>
+    <dimen name="bubble_min_size">40dp</dimen>
+    <dimen name="bubble_max_size">150dp</dimen>
+</resources>
